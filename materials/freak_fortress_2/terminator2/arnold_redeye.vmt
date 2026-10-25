@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\terminator2\Arnold_redeye"
+	"$bumpmap" "freak_fortress_2\terminator2\Arnold_redeye_BM"
+	"$normalmap" "freak_fortress_2\terminator2\Arnold_redeye_BM"
+	"$selfillum" 1
+}

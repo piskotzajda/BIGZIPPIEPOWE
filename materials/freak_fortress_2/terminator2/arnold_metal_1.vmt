@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\terminator2\Arnold_metal_1"
+	"$bumpmap" "freak_fortress_2\terminator2\Arnold_metal_1_BM"
+	"$normalmap" "freak_fortress_2\terminator2\Arnold_metal_1_BM"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .45 .45 .45 ]"
+	"$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\terminator2\Arnold_teeth"
+	"$bumpmap" "freak_fortress_2\terminator2\Arnold_teeth_BM"
+	"$normalmap" "freak_fortress_2\terminator2\Arnold_teeth_BM"
+}
