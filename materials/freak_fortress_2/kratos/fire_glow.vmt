@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/kratos/fire_glow"
+	$translucent 1
+	$selfillum 1
+ "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "10.00"
+      }
+   }
+}

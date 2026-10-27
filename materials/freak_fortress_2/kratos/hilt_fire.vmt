@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/kratos/hilt_fire"
+
+	"$phong"				"1"
+	"$phongboost"			"1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	"$phongexponent" 		"8"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "4"										
+	"$rimlightboost" "1"	
+}

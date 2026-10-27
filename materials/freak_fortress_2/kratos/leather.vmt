@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" 	"freak_fortress_2/kratos/kratos_sheet2"
+	"$bumpmap"	"freak_fortress_2/kratos/kratos_sheet_n"
+                "$nocull" 1
+ 	"$phong" "1"
+	"$phongexponenttexture" "freak_fortress_2/kratos/kratos_sheet_n"
+	"$phongboost"	".65"
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+}
